@@ -1,0 +1,9 @@
+{
+    "include": ["src"],
+    "compilerOptions": {
+        "outDir": "build",
+        "target": "ES6",
+        "ignoreDeprecations": "5.0",
+        "lib": []
+    }
+}
